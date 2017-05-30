@@ -9,6 +9,12 @@
     <link rel="stylesheet" type="text/css" href="website-test1/css">
     <link href='https://fonts.googleapis.com/css?family=Amethysta' rel='stylesheet'>
     <title>Learning Doc</title> 
+    <style>
+    body{
+    font-family: 'Amethysta';
+    font-size: 22px;
+    }
+    </style>
   </head>
   <body>
   <div class= "header">
