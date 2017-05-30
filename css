@@ -1,3 +1,7 @@
 *{
   font: arial;
 }
+
+h1{
+  text-transform: uppercase;
+}
