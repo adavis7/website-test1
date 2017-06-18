@@ -5,7 +5,22 @@
 <html>
 
   <head>
-    <link rel="stylesheet" type="text/css" href="website-test1/css">
+    <style>
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-transform:uppercase;
+}
+</style>
   </head>
   <body>
   <h1 class= "title"> Learning Doc</h2> 
